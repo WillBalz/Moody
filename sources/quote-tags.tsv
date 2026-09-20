@@ -1,0 +1,329 @@
+# Hand-assigned tone tags. One row per source passage; no keyword-generated tags.
+cd-001 funny
+cd-002 funny confusion
+cd-003 funny anger_frustration
+cd-004 pride funny
+cd-005 funny reflection
+cd-006 calm_peace funny
+cd-007 pride funny
+cd-008 funny
+cd-009 funny restlessness
+cd-010 funny
+cd-011 joy_gratitude funny wonder
+cd-012 funny
+cd-013 funny ennui
+cd-014 pride
+cd-015 funny
+cd-016 grief_sadness
+cd-017 exhaustion_burnout funny
+cd-018 wonder
+cd-019 wonder funny
+cd-020 anger_frustration
+cd-021 funny exhaustion_burnout
+cd-022 funny
+cd-023 funny confusion
+cd-024 exhaustion_burnout funny
+cd-025 funny
+cd-026 funny
+cd-027 anger_frustration funny
+cd-028 restlessness funny
+cd-029 anxiety_fear funny
+cd-030 anger_frustration funny
+cd-031 reflection
+cd-032 ennui funny
+cd-033 anger_frustration funny
+cd-034 ennui calm_peace
+cd-035 hope funny
+cd-036 hope reflection
+cd-037 ennui
+cd-038 grief_sadness
+cd-039 funny restlessness
+cd-040 joy_gratitude funny
+cd-041 grief_sadness nostalgia
+cd-042 pride loneliness
+cd-043 anxiety_fear loneliness
+cd-044 anxiety_fear
+cd-045 anxiety_fear funny
+cd-046 anger_frustration funny
+cd-047 anger_frustration funny
+cd-048 anger_frustration
+cd-049 anger_frustration funny
+cd-050 anger_frustration
+cd-051 anger_frustration
+cd-052 anger_frustration
+cd-053 anger_frustration funny
+cd-054 courage_resolve
+cd-055 anger_frustration funny
+cd-056 anger_frustration funny
+cd-057 anger_frustration funny
+cd-058 reflection
+cd-059 anger_frustration pride
+cd-060 anger_frustration
+cd-061 anger_frustration
+cd-062 anger_frustration anxiety_fear
+cd-063 anxiety_fear anger_frustration
+cd-064 reflection
+cd-065 pride
+cd-066 confusion anxiety_fear
+cd-067 courage_resolve
+cd-068 courage_resolve
+cd-069 funny
+cd-070 love_longing hope
+cd-071 courage_resolve anger_frustration
+cd-072 funny pride
+cd-073 courage_resolve
+cd-074 anger_frustration funny
+cd-075 anger_frustration funny
+cd-076 joy_gratitude funny
+cd-077 restlessness
+cd-078 anxiety_fear anger_frustration funny
+cd-079 anger_frustration
+cd-080 anger_frustration
+cd-081 anger_frustration
+cd-082 calm_peace funny
+cd-083 anxiety_fear
+cd-084 anger_frustration funny
+cd-085 confusion anger_frustration
+cd-086 anger_frustration exhaustion_burnout
+cd-087 anger_frustration funny
+cd-088 anger_frustration exhaustion_burnout funny
+cd-089 funny
+cd-090 funny
+cd-091 funny restlessness
+cd-092 grief_sadness exhaustion_burnout
+cd-093 anxiety_fear
+cd-094 reflection
+cd-095 joy_gratitude
+cd-096 ennui exhaustion_burnout
+cd-097 grief_sadness
+cd-098 exhaustion_burnout funny
+cd-099 exhaustion_burnout
+cd-100 anger_frustration funny
+cd-101 anger_frustration funny
+cd-102 love_longing
+cd-103 anxiety_fear
+cd-104 exhaustion_burnout funny
+cd-105 funny ennui
+cd-106 exhaustion_burnout funny
+cd-107 funny exhaustion_burnout
+cd-108 funny
+cd-109 funny confusion
+cd-110 pride
+cd-111 love_longing grief_sadness
+cd-112 anger_frustration
+cd-113 confusion
+cd-114 ennui calm_peace
+cd-115 funny pride
+cd-116 anger_frustration funny
+cd-117 funny calm_peace
+cd-118 exhaustion_burnout
+cd-119 anxiety_fear ennui
+cd-120 anger_frustration funny courage_resolve
+cd-121 confusion anxiety_fear
+cd-122 anxiety_fear funny
+cd-123 anger_frustration courage_resolve
+cd-124 pride
+cd-125 courage_resolve funny
+cd-126 exhaustion_burnout calm_peace
+cd-127 anger_frustration pride funny
+cd-128 exhaustion_burnout loneliness funny
+cd-129 pride funny
+cd-130 pride wonder funny
+cd-131 exhaustion_burnout anxiety_fear reflection
+cd-132 ennui funny calm_peace
+cd-133 anger_frustration funny
+cd-134 anxiety_fear confusion funny
+cd-135 funny confusion
+cd-136 reflection
+cd-137 exhaustion_burnout
+cd-138 funny anger_frustration
+cd-139 funny anger_frustration loneliness
+cd-140 funny
+cd-141 funny
+cd-142 grief_sadness reflection
+pp-001 funny reflection
+pp-002 funny reflection
+pp-003 funny confusion
+pp-004 funny restlessness
+pp-005 confusion funny
+pp-006 courage_resolve
+pp-007 funny
+pp-008 pride funny
+pp-009 love_longing wonder
+pp-010 hope
+pp-011 joy_gratitude funny
+pp-012 funny reflection
+pp-013 ennui grief_sadness
+pp-014 ennui pride
+pp-015 pride funny
+pp-016 anxiety_fear
+pp-017 grief_sadness loneliness
+pp-018 funny anxiety_fear
+pp-019 hope funny
+pp-020 pride anger_frustration
+pp-021 funny anger_frustration
+pp-022 funny reflection
+pp-023 funny anger_frustration
+pp-024 funny courage_resolve
+pp-025 calm_peace courage_resolve funny
+pp-026 anger_frustration
+pp-027 funny
+pp-028 calm_peace
+pp-029 funny
+pp-030 funny wonder
+pp-031 funny
+pp-032 funny reflection
+pp-033 funny joy_gratitude
+pp-034 funny
+pp-035 love_longing joy_gratitude
+pp-036 funny
+pp-037 funny restlessness
+pp-038 courage_resolve funny
+pp-039 anxiety_fear reflection
+pp-040 funny hope
+pp-041 funny ennui
+pp-042 funny love_longing
+pp-043 funny ennui
+pp-044 funny
+pp-045 anger_frustration courage_resolve
+pp-046 funny
+pp-047 anxiety_fear
+pp-048 funny
+pp-049 loneliness grief_sadness love_longing
+pp-050 love_longing loneliness
+pp-051 courage_resolve calm_peace funny
+pp-052 love_longing funny
+pp-053 joy_gratitude wonder funny
+pp-054 joy_gratitude funny
+pp-055 joy_gratitude funny
+pp-056 funny
+pp-057 funny pride
+pp-058 funny pride
+pp-059 funny pride
+pp-060 joy_gratitude
+pp-061 ennui funny
+pp-062 love_longing funny
+pp-063 funny pride
+pp-064 funny
+pp-065 reflection
+pp-066 reflection
+pp-067 pride funny
+pp-068 pride funny
+pp-069 funny pride
+pp-070 funny
+pp-071 love_longing funny
+pp-072 funny pride
+pp-073 pride funny
+pp-074 funny pride
+pp-075 hope
+pp-076 anger_frustration pride
+pp-077 anger_frustration
+pp-078 anger_frustration
+pp-079 pride anger_frustration
+pp-080 funny pride
+pp-081 funny
+pp-082 funny reflection
+pp-083 hope love_longing
+pp-084 joy_gratitude funny
+pp-085 wonder funny
+pp-086 calm_peace
+pp-087 pride funny
+pp-088 pride funny
+pp-089 funny courage_resolve
+pp-090 anger_frustration
+pp-091 pride anger_frustration
+pp-092 pride anger_frustration
+pp-093 anger_frustration funny
+pp-094 pride funny
+pp-095 pride funny
+pp-096 confusion funny
+pp-097 pride anger_frustration
+pp-098 funny
+pp-099 pride funny
+pp-100 anxiety_fear pride
+pp-101 anger_frustration
+pp-102 reflection
+pp-103 grief_sadness love_longing
+pp-104 reflection pride
+pp-105 reflection pride
+pp-106 reflection calm_peace
+pp-107 calm_peace courage_resolve
+pp-108 calm_peace
+pp-109 joy_gratitude love_longing funny
+pp-110 funny joy_gratitude
+pp-111 funny joy_gratitude
+pp-112 pride funny
+pp-113 funny restlessness
+pp-114 funny joy_gratitude
+pp-115 courage_resolve restlessness
+pp-116 funny love_longing
+pp-117 joy_gratitude love_longing funny
+pp-118 anger_frustration
+pp-119 funny anger_frustration
+pp-120 pride anger_frustration
+pp-121 funny pride
+pp-122 pride anger_frustration
+pp-123 funny reflection
+pp-124 pride reflection
+pp-125 pride
+pp-126 confusion
+pp-127 anger_frustration
+pp-128 wonder
+pp-129 hope
+pp-130 anger_frustration
+pp-131 calm_peace joy_gratitude
+pp-132 wonder
+pp-133 reflection confusion
+pp-134 funny joy_gratitude
+pp-135 courage_resolve
+pp-136 funny
+pp-137 courage_resolve
+pp-138 funny reflection
+pp-139 guilt_regret
+pp-140 reflection guilt_regret
+pp-141 confusion funny
+pp-142 courage_resolve
+pp-143 funny love_longing
+pp-144 funny love_longing
+pp-145 funny guilt_regret
+pp-146 funny love_longing
+pp-147 anger_frustration courage_resolve
+pp-148 joy_gratitude
+pp-149 love_longing hope
+pp-150 anger_frustration guilt_regret
+pp-151 love_longing joy_gratitude
+pp-152 pride
+pp-153 pride anger_frustration
+pp-154 reflection
+pp-155 love_longing
+pp-156 love_longing courage_resolve
+pp-157 love_longing grief_sadness
+pp-158 love_longing calm_peace
+pp-159 guilt_regret reflection
+pp-160 love_longing joy_gratitude guilt_regret
+pp-161 funny reflection
+pp-162 love_longing
+pp-163 ennui
+pp-164 ennui
+pp-165 ennui
+pp-166 love_longing calm_peace
+pp-167 funny joy_gratitude
+pp-168 ennui funny
+pp-169 ennui
+pp-170 funny hope
+pp-171 love_longing funny
+pp-172 reflection ennui
+pp-173 calm_peace ennui
+pp-174 ennui reflection
+pp-175 joy_gratitude funny pride
+pp-176 funny
+pp-177 funny grief_sadness
+pp-178 ennui
+pp-179 funny pride
+pp-180 funny
+pp-181 grief_sadness reflection
+pp-182 confusion
+pp-183 guilt_regret anxiety_fear
+pp-184 anger_frustration
+pp-185 hope
+pp-186 funny courage_resolve

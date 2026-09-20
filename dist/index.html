@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Commonplace</title>
+  <meta name="description" content="A line from a favorite book, for whatever is stirring today. Mood matching happens entirely on your device.">
+
+  <!-- PWA / home screen setup -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#1E2A28">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Commonplace">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app" id="app">
+
+    <!-- ============ HOME SCREEN ============ -->
+    <section class="screen screen--home" id="screen-home">
+      <header class="home-header">
+        <span class="home-mark">✒</span>
+        <h1 class="home-title">Commonplace</h1>
+      </header>
+
+      <form class="home-body" id="mood-form">
+        <label class="prompt" for="mood-input">What's stirring today?</label>
+        <textarea
+          id="mood-input"
+          class="mood-input"
+          rows="3"
+          placeholder="a word, or a whole sentence — however it comes out"
+          autocomplete="off"
+          autocapitalize="off"
+          spellcheck="true"
+          maxlength="2000"
+          required
+          aria-describedby="load-status"
+        ></textarea>
+
+        <button class="btn-pull" id="btn-pull" type="submit" disabled>Pull a line</button>
+        <p class="load-status" id="load-status" role="status">Opening the collection…</p>
+        <button class="btn-secondary" id="btn-retry" type="button" hidden>Try loading again</button>
+      </form>
+
+      <button class="history-tab" id="btn-history" type="button" aria-label="Open history">
+        <span class="history-tab__icon">▤</span>
+        <span class="history-tab__label">This visit’s pulls</span>
+      </button>
+    </section>
+
+    <!-- ============ CARD / RESULT SCREEN ============ -->
+    <section class="screen screen--card" id="screen-card" hidden>
+      <div class="card-wrap">
+        <article class="index-card" id="index-card">
+          <div class="index-card__fold"></div>
+          <div class="index-card__accession" id="card-accession">No. 001</div>
+
+          <blockquote class="index-card__quote" id="card-quote-text" tabindex="-1">—</blockquote>
+
+          <div class="index-card__rule"></div>
+
+          <div class="index-card__meta">
+            <div class="index-card__book" id="card-book">—</div>
+            <div class="index-card__author" id="card-author">—</div>
+          </div>
+
+          <div class="index-card__stamp" id="card-tag">matched: —</div>
+        </article>
+      </div>
+
+      <details id="match-detail" class="match-detail"><summary>Why this line?</summary><p id="match-explanation"></p></details>
+      <div class="card-actions">
+        <button class="btn-secondary" id="btn-another">Pull another</button>
+        <button class="btn-primary" id="btn-done">Change my words</button>
+      </div>
+    </section>
+
+    <!-- ============ HISTORY SCREEN ============ -->
+    <section class="screen screen--history" id="screen-history" hidden>
+      <header class="history-header">
+        <button class="btn-back" id="btn-back-from-history" aria-label="Back">‹</button>
+        <h2 class="history-title" id="history-title" tabindex="-1">This visit’s pulls</h2>
+      </header>
+
+      <div class="history-list" id="history-list">
+        <!-- populated by app.js -->
+      </div>
+
+      <p class="history-empty" id="history-empty" hidden>No lines pulled yet. This list clears when you reload.</p>
+    </section>
+
+  </div>
+
+  <noscript><p>This app needs JavaScript to match your words with a line.</p></noscript>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

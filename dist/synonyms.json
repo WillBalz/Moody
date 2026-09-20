@@ -1,0 +1,101 @@
+{
+  "grief_sadness": {
+    "label": "Grief / Sadness",
+    "words": ["sad", "sadness", "grief", "grieving", "grieve", "heartbroken", "heartbreak",
+      "crying", "cry", "sorrow", "sorrowful", "mourning", "mourn", "loss", "lost someone",
+      "down", "blue", "low", "empty inside", "devastated", "hurting", "ache", "aching",
+      "tearful", "weeping", "despair", "hopeless", "gutted", "broken"]
+  },
+  "anxiety_fear": {
+    "label": "Anxiety / Fear",
+    "words": ["anxious", "anxiety", "nervous", "worried", "worry", "scared", "afraid",
+      "fear", "fearful", "panicked", "panic", "on edge", "uneasy", "dread", "dreading",
+      "stressed", "overwhelmed", "spiraling", "racing thoughts", "tense", "jittery",
+      "terrified", "apprehensive", "shaky", "spooked", "nervous wreck"]
+  },
+  "anger_frustration": {
+    "label": "Anger / Frustration",
+    "words": ["angry", "anger", "mad", "furious", "frustrated", "frustration", "irritated",
+      "irritable", "annoyed", "pissed", "pissed off", "rage", "raging", "resentful",
+      "resentment", "fed up", "seething", "livid", "bitter", "snapping", "boiling",
+      "infuriated", "cross", "aggravated"]
+  },
+  "loneliness": {
+    "label": "Loneliness",
+    "words": ["lonely", "loneliness", "alone", "isolated", "isolation", "unseen",
+      "invisible", "left out", "excluded", "disconnected", "no one understands",
+      "solitary", "friendless", "abandoned", "forgotten", "on my own", "left behind"]
+  },
+  "hope": {
+    "label": "Hope",
+    "words": ["hope", "hopeful", "hoping", "optimistic", "optimism", "looking forward",
+      "better days", "brighter", "faith", "believing", "encouraged", "possibility",
+      "things will improve", "light ahead", "cautiously hopeful"]
+  },
+  "joy_gratitude": {
+    "label": "Joy / Gratitude",
+    "words": ["happy", "happiness", "joy", "joyful", "grateful", "gratitude", "thankful",
+      "delighted", "cheerful", "elated", "glad", "content", "blessed", "appreciative",
+      "lighthearted", "bright", "good mood", "on top of the world"]
+  },
+  "love_longing": {
+    "label": "Love / Longing",
+    "words": ["love", "loving", "in love", "longing", "yearning", "yearn", "miss",
+      "missing you", "miss him", "miss her", "miss them", "crush", "affection",
+      "romance", "romantic", "devotion", "tender", "tenderness", "ache for", "pining",
+      "wanting them", "heartsick", "smitten"]
+  },
+  "confusion": {
+    "label": "Confusion",
+    "words": ["confused", "confusion", "lost", "unsure", "uncertain", "uncertainty",
+      "don't know what to do", "no idea", "torn", "conflicted", "mixed up", "puzzled",
+      "unclear", "directionless", "stuck", "second guessing", "indecisive", "muddled"]
+  },
+  "exhaustion_burnout": {
+    "label": "Exhaustion / Burnout",
+    "words": ["tired", "exhausted", "exhaustion", "burnt out", "burned out", "burnout",
+      "drained", "depleted", "worn out", "fatigued", "fatigue", "no energy", "running on empty",
+      "spent", "weary", "sleepy", "overworked", "can't keep going", "wiped out"]
+  },
+  "nostalgia": {
+    "label": "Nostalgia",
+    "words": ["nostalgic", "nostalgia", "remembering", "reminiscing", "old memories",
+      "used to", "back then", "miss those days", "childhood", "the way things were",
+      "wistful", "sentimental", "throwback", "long ago"]
+  },
+  "courage_resolve": {
+    "label": "Courage / Resolve",
+    "words": ["brave", "bravery", "courage", "courageous", "determined", "determination",
+      "resolve", "resolved", "strong", "strength", "pushing through", "fight",
+      "fighting", "steady", "not giving up", "gritting my teeth", "resilient", "willpower"]
+  },
+  "calm_peace": {
+    "label": "Calm / Peace",
+    "words": ["calm", "peaceful", "peace", "relaxed", "serene", "serenity", "still",
+      "stillness", "quiet", "settled", "at ease", "centered", "grounded", "tranquil",
+      "unbothered", "content and quiet"]
+  },
+  "restlessness": {
+    "label": "Restlessness",
+    "words": ["restless", "restlessness", "antsy", "fidgety", "can't sit still",
+      "itching to move", "unsettled", "impatient", "pent up", "wired", "cooped up",
+      "cabin fever", "need a change"]
+  },
+  "pride": {
+    "label": "Pride",
+    "words": ["proud", "pride", "accomplished", "accomplishment", "achieved", "achievement",
+      "did it", "satisfied with myself", "self respect", "dignity", "triumphant"]
+  },
+  "guilt_regret": {
+    "label": "Guilt / Regret",
+    "words": ["guilty", "guilt", "regret", "regretful", "ashamed", "shame", "sorry",
+      "should have", "shouldn't have", "wish i hadn't", "remorse", "remorseful",
+      "beating myself up", "self blame"]
+  },
+  "wonder": {
+    "label": "Wonder",
+    "words": ["wonder", "wonderful", "amazed", "amazement", "awe", "awestruck", "in awe",
+      "curious", "curiosity", "fascinated", "magical", "marveling", "astonished",
+      "starstruck", "mesmerized"]
+  }
+}
